@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mulig4.flaggfall",
+        "sha256_cert_fingerprints": ["4A:10:F4:EF:A1:21:CA:85:C5:EA:8B:CC:B2:CE:9A:76:B5:CD:DF:87:A5:62:75:3F:B8:20:40:34:5F:35:23:FB"]
+      }
+    }]
